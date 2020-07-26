@@ -1,0 +1,406 @@
+# Translation of Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-22 22:31:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Plugin Name of the plugin
+#: astra-sites.php:18 inc/classes/class-astra-sites-page.php:753
+msgid "Starter Templates"
+msgstr "Starter Templates"
+
+#: inc/classes/class-astra-sites-page.php:711
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/classes/class-astra-sites.php:1525
+msgid "Plugin Activated"
+msgstr "Plugin ativado"
+
+#: inc/classes/class-astra-sites-page.php:441
+msgid "Select Page Builder"
+msgstr "Selecione o construtor de página"
+
+#: inc/classes/class-astra-sites.php:797
+msgid "Theme Activated"
+msgstr "Tema ativado"
+
+#: inc/includes/admin-page.php:722
+msgid "Import Widgets"
+msgstr "Importar widget"
+
+#: inc/includes/admin-page.php:729 inc/classes/class-astra-sites.php:1370
+msgid "Install Required Plugins"
+msgstr "Instalar plugins obrigatório"
+
+#: inc/classes/class-astra-sites.php:1086
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: inc/classes/class-astra-sites.php:1083
+msgid "Installed! Activating.."
+msgstr "Instalado! ativando.."
+
+#: inc/classes/class-astra-sites.php:1084
+msgid "Activating..."
+msgstr "Ativando..."
+
+#: inc/classes/class-astra-sites-page.php:716
+msgid "Brizy"
+msgstr "Brizy"
+
+#: inc/classes/class-astra-sites-page.php:706
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: inc/classes/class-astra-sites-page.php:701
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/classes/class-astra-sites.php:1168
+#: inc/classes/class-astra-sites.php:1363
+msgid "Get Agency Bundle"
+msgstr "Obtenha Agency Bundle"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1184
+msgid "Warning! %1$s Import process is not complete. Don't close the window until import process complete. Do you still want to leave the window?"
+msgstr "Atenção! O processo de importação do %1$s não foi concluído. Não feche a janela até que o processo de importação seja concluído. Você ainda quer sair da janela?"
+
+#: inc/classes/class-astra-sites-wp-cli.php:268
+msgid "Importing Site Options.."
+msgstr "Importando opções do site"
+
+#: inc/classes/class-astra-sites-wp-cli.php:276
+msgid "Importing Widgets.."
+msgstr "Importando Widgets"
+
+#: inc/classes/class-astra-sites-importer.php:442
+msgid "Site options are empty!"
+msgstr "As opções do site estão vazias!"
+
+#: inc/classes/class-astra-sites-importer.php:393
+msgid "Invalid site XML file!"
+msgstr "O arquivo XML do site é inválido!"
+
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+#: inc/classes/class-astra-sites-importer-log.php:287
+msgctxt "Recommended Memory Limit"
+msgid "Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr "O limite de memória atual é %1$s. Recomendamos definir a memória com pelo menos %2$s."
+
+#: inc/classes/class-astra-sites-importer.php:493
+msgid "Widget data is empty!"
+msgstr "Os dados do widget estão vazios!"
+
+#: inc/classes/class-astra-sites-importer.php:379
+msgid "There was an error downloading the XML file."
+msgstr "Houve um erro ao baixar o arquivo XML."
+
+#: inc/classes/class-astra-sites-importer.php:324
+msgid "Customizer data is empty!"
+msgstr "Os dados do personalizador estão vazios!"
+
+#: inc/classes/class-astra-sites-importer-log.php:357
+#: inc/classes/class-astra-sites-importer-log.php:416
+msgid "No"
+msgstr "Não"
+
+#: inc/classes/class-astra-sites-importer-log.php:354
+#: inc/classes/class-astra-sites-importer-log.php:413
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/classes/class-astra-sites-importer-log.php:368
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "Recomendamos usar php 5.4 ou superior"
+
+#: inc/classes/class-astra-sites-importer-log.php:269
+msgid "Disabled"
+msgstr "Desativado"
+
+#: inc/classes/class-astra-sites-importer-log.php:266
+msgid "Enabled"
+msgstr "Ativado"
+
+#: inc/importers/wxr-importer/class-astra-wxr-importer.php:421
+msgid "Import complete!"
+msgstr "Importação concluída!"
+
+#. translators: %s is the site URL.
+#: inc/classes/class-astra-sites-wp-cli.php:286
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr ""
+"O site foi importado!\n"
+"Visite: %s"
+
+#: inc/includes/admin-page.php:694
+msgid "Import Customizer Settings"
+msgstr "Importar configurações do personalizador"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:126 inc/includes/templates.php:241
+#: inc/includes/templates.php:325 inc/includes/templates.php:412
+#: inc/includes/templates.php:474 inc/includes/image-templates.php:93
+msgid "Don't see a template you would like to import?<br><a target=\"_blank\" href=\"%1$s\">Make a Template Suggestion!</a>"
+msgstr "Não vê um modelo que você gostaria de importar?<br><a target=\"_blank\" href=\"%1$s\">Faça uma sugestão de modelo!</a>"
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "Descrição do plugin:"
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "Nome do plugin:"
+
+#. translators: %1$s product name
+#: inc/classes/class-astra-sites-white-label.php:211
+msgid "%1$s Branding"
+msgstr "%1$s Marca"
+
+#. translators: %d are the minutes.
+#: inc/importers/batch-processing/helpers/class-wp-background-process.php:440
+msgid "Every %d Minutes"
+msgstr "A cada %d minutos"
+
+#: inc/classes/class-astra-sites.php:1170
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: inc/classes/class-astra-sites-page.php:387
+msgid "Settings saved successfully."
+msgstr "Configurações salvas."
+
+#: inc/includes/templates.php:122 inc/includes/templates.php:123
+msgid "Close"
+msgstr "Fechar"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:769
+msgid "Cannot import auto-draft posts"
+msgstr "Não é possível importar postagens de rascunho automático"
+
+#: inc/importers/class-astra-widget-importer.php:154
+msgid "Site does not support widget"
+msgstr "O site não é compatível com o widget"
+
+#: inc/importers/class-astra-widget-importer.php:88
+msgid "Import data could not be read. Please try a different file."
+msgstr "Os dados de importação não puderam ser lidos. Tente um arquivo diferente."
+
+#: inc/importers/class-astra-widget-importer.php:268
+msgid "No Title"
+msgstr "Nenhum título"
+
+#: inc/importers/class-astra-widget-importer.php:262
+msgid "Imported to Inactive"
+msgstr "Importado para inativo"
+
+#: inc/importers/class-astra-widget-importer.php:259
+msgid "Imported"
+msgstr "Importado"
+
+#: inc/importers/class-astra-widget-importer.php:190
+msgid "Widget already exists"
+msgstr "Widget já existe"
+
+#: inc/importers/class-astra-widget-importer.php:132
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "Área de widget não existe no tema (usando Inativo)"
+
+#: inc/classes/class-astra-sites.php:931
+msgid "See Library"
+msgstr "Ver biblioteca"
+
+#: inc/classes/class-astra-sites.php:1185
+msgid "Done! View Site"
+msgstr "Feito! Visualizar o site"
+
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+#: inc/importers/wxr-importer/class-wxr-importer.php:262
+#: inc/importers/wxr-importer/class-wxr-importer.php:381
+#: inc/importers/wxr-importer/class-wxr-importer.php:457
+msgid "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating."
+msgstr "Este arquivo WXR (versão %1$s) é mais recente que o importador (versão %2$s) e pode não ser compatível. É melhor atualizá-lo."
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2230
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Não foi possível encontrar o comentário ascendente para o comentário #%d"
+
+#. translators: %1$d is comment id, %2$d is author id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2261
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr "O comentário %1$d foi importado com o autor %2$d, mas não foi encontrado"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2281
+msgid "Could not update comment #%d with mapped data"
+msgstr "Não foi possível atualizar o comentário #%d com dados mapeados"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2254
+msgid "Could not find the author for comment #%d"
+msgstr "Não foi possível encontrar o autor do comentário #%d"
+
+#. translators: %1$s is comment id, %2$s is parent comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2237
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr "O comentário %1$d foi importado com ascendente %2$d, mas não foi encontrado"
+
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2199
+msgid "Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not be found"
+msgstr "O post %1$d foi importado com o objeto \"%2$d\" do tipo \"%3$s\", mas não foi encontrado"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2191
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr "Não foi possível encontrar o objeto de menu para \"%1$s\" (post #%2$d)"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2137
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr "Não foi possível atualizar \"%1$s\" (post #%2$d) com os dados mapeados"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2123
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "O post %d foi marcado para pós-processamento, mas não foi necessário fazê-lo"
+
+#. translators: %1$d is post id, %2$s is author slug.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2094
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr "O post %1$d foi importado com o autor \"%2$s\", mas não foi encontrado"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2086
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr "Não foi possível encontrar o autor de \"%1$s\" (post #%2$d)"
+
+#. translators: %1$d is post id, %2$d is parent post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2069
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr "O post %1$d foi importado com ascendente %2$d, mas não foi encontrado"
+
+#. translators: %1$s is post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2061
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr "Não foi possível encontrar o ascendente do post para \"%1$s\" (post #%2$d)"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2045
+msgid "Running post-processing for post %d"
+msgstr "Executando pós-processamento para post %d"
+
+#. translators: %s max file size.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2012
+msgid "Remote file is too large, limit is %s"
+msgstr "O arquivo remoto é muito grande, o limite é %s"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2005
+msgid "Zero size file downloaded"
+msgstr "Arquivo de tamanho zero baixado"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2000
+msgid "Remote file is incorrect size"
+msgstr "O arquivo remoto está com o tamanho incorreto"
+
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1987
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "O servidor remoto retornado %1$d %2$s para %3$s"
+
+#. translators: %1$s is term original id, %2$s is term id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1929
+msgid "Term %1$d remapped to %2$d"
+msgstr "O termo %1$d foi remapeado para %2$d"
+
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1894
+msgid "Failed to import %1$s %2$s"
+msgstr "Falha ao importar %1$s %2$s"
+
+#. translators: %1$s original user Id, %2$s old user Id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1729
+msgid "User %1$d remapped to %2$d"
+msgstr "O usuário %1$d foi remapeado para %2$d"
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1698
+msgid "Failed to import user \"%s\""
+msgstr "Falha ao importar usuário \"%s\""
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1722
+msgid "Imported user \"%s\""
+msgstr "O usuário \"%s\" foi importado"
+
+#. translators: %1$s is the original post id, %2$s is old post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1041
+msgid "Post %1$d remapped to %2$d"
+msgstr "O post %1$d foi remapeado para %2$d"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1033
+#: inc/importers/wxr-importer/class-wxr-importer.php:1921
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr "Foi importado: \"%1$s\" (%2$s)"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:998
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr "Falha ao importar \"%1$s\" (%2$s)"
+
+#. translators: %s is post title
+#: inc/importers/wxr-importer/class-wxr-importer.php:974
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Pular anexo \"%s\", buscando anexos desativados"
+
+#. translators: %1$s single post type, %2$s is post title.
+#: inc/importers/wxr-importer/class-wxr-importer.php:877
+msgid "%1$s \"%2$s\" already exists."
+msgstr "%1$s \"%2$s\" já existe."
+
+#. translators: %1$s is the import message, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:864
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr "Falha ao importar \"%1$s\": Tipo de post inválido %2$s"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:668
+msgid "Invalid author mapping"
+msgstr "Mapeamento de autor inválido"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:608
+msgid "The file does not exist, please try again."
+msgstr "O arquivo não existe, tente novamente."
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:224
+msgid "Could not open the file for parsing"
+msgstr "Não foi possível abrir o arquivo para análise"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1192
+msgid "Invalid file type"
+msgstr "Tipo de arquivo inválido"
+
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
