@@ -12,6 +12,15 @@
 	possua algumas informações do restaurante, seu cardápio, sobre nós, localização, contato...
 </p>
 
+<h4>Tecnologias Utilizadas</h4>
+<ul>
+  <li>WordPress</li>
+  <li>WPForms</li>
+  <li>Elementor</li>
+  <li>Envato Elements</li>
+  <li>GloriaFood</li>
+</ul>
+
 
 
 
